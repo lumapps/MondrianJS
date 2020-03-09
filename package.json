@@ -1,5 +1,5 @@
 {
-  "name": "mondrianjs",
+  "name": "lumrianjs",
   "version": "0.0.3",
   "description": "A distributed/decentralized micro frontend engine",
   "main": "index.js",
